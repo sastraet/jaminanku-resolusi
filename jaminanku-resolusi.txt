@@ -10,3 +10,6 @@ JAMINANKU RESOLUSI
 
 -css past bisa
 
+
+-css layout video 1
+
